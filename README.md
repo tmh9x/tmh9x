@@ -18,7 +18,7 @@
 <a href="https://reactjs.org/"><img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" align="left" width="30"></a>
 <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" align="left" width="30"></a>
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=tmh9x&theme=tokyonight_duo" width="35%" align="right" ><br />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=tmh9x&theme=tokyonight_duo" width="40%" align="right" ><br />
 <br />
 <a href="https://tailwindcss.com/"><img alt="Tailwind" src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" align="left" width="30"></a>
 <a href="https://www.mongodb.com/"><img alt="MongoSB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" align="left" width="30"></a>
