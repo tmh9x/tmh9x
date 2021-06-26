@@ -17,7 +17,8 @@
 <a href="https://developer.mozilla.org/de/docs/Web/JavaScript"><img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" align="left" width="30"></a>
 <a href="https://reactjs.org/"><img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" align="left" width="30"></a>
 <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" align="left" width="30"></a>
-<br />
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=tmh9x&theme=tokyonight_duo" width="35%" align="right" ><br />
 <br />
 <a href="https://tailwindcss.com/"><img alt="Tailwind" src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" align="left" width="30"></a>
 <a href="https://www.mongodb.com/"><img alt="MongoSB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" align="left" width="30"></a>
@@ -32,13 +33,3 @@
 <a href="https://storybook.js.org/"><img alt="Storybook" src="https://pbs.twimg.com/profile_images/1100804485616566273/sOct-Txm_400x400.png" align="left" width="30"></a>
 <a href="https://heroku.com"><img alt="Heroku" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" align="left" width="30"></a>
 <a href="https://www.adobe.com/de/products/xd.html"><img alt="Aodobe XD" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" align="left" width="30"></a>
-
-<br />
-<br />
-<br />
-
-## Current GitHub Stats
-
-<img  src="https://github-readme-stats.vercel.app/api?username=tmh9x&show_icons=true&hide_border=true&theme=light" width="40%" align="left" >
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=tmh9x&theme=light" width="40%" align="right" >
