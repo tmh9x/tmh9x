@@ -6,8 +6,7 @@
 
 <img align="left" width="30%" align="right" alt="Github Image" src="https://pluspng.com/img-png/github-octocat-logo-png-octodex-api-octodex-json-at-master-cocoaheads-miami-octodex-api-github-896.png" />
 
-- 🔭 I’m currently working at Sopra Steria SE
-- 🌱 I’m currently learning React and Go
+- 🌱 I’m currently learning React
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/thomashermanu/) or [Xing](https://www.xing.com/profile/Thomas_Hermanu2/cv)
 
 ## Tech Stack and Technologies
@@ -20,7 +19,7 @@
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tmh9x&theme=tokyonight_duo" width="35%" align="right"><br />
 <br />
-<a href="https://tailwindcss.com/"><img alt="Tailwind" src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" align="left" width="30"></a>
+<a href="https://tailwindcss.com/"><img alt="Tailwind" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" align="left" width="30"></a>
 <a href="https://www.mongodb.com/"><img alt="MongoSB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" align="left" width="30"></a>
 <a href="https://nodejs.org/en/about/"><img alt="Nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" align="left" width="30"></a>
 <a href="http://expressjs.com/en/starter/installing.html"><img alt="ExpressJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" align="left" width="30"></a>
