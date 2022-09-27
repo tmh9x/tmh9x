@@ -6,8 +6,8 @@
 
 <img align="left" width="30%" align="right" alt="Github Image" src="https://pluspng.com/img-png/github-octocat-logo-png-octodex-api-octodex-json-at-master-cocoaheads-miami-octodex-api-github-896.png" />
 
-- 🌱 I’m currently learning React
-- 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/thomashermanu/) or [Xing](https://www.xing.com/profile/Thomas_Hermanu2/cv)
+- 🌱 I’m currently learning React/ Next.js
+- 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/thomashermanu/)
 
 ## Tech Stack and Technologies
 
