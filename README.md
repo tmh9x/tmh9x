@@ -1,34 +1,47 @@
-<h1 align="center"> Hi there. 👋  I'm Thomas </h1>
-<h3 align="center"> I'm a Web Developer from Berlin</h3>
+<h1 align="center"> Hey there! 👋  I'm Thomas </h1>
+<h3 align="center"> A Web Developer hailing from the vibrant city of Berlin 🌆</h3>
 
-<br />
-<br />
 
-<img align="left" width="30%" align="right" alt="Github Image" src="https://pluspng.com/img-png/github-octocat-logo-png-octodex-api-octodex-json-at-master-cocoaheads-miami-octodex-api-github-896.png" />
+## About Me
 
-- 🌱 I’m currently learning React/ Next.js
-- 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/thomashermanu/)
+I've been working in the web development field for 3 years, specializing in frontend technologies. I have a strong foundation in HTML, CSS, and JavaScript, and I'm continuously honing my skills by exploring new frameworks and libraries like React.
+
+- 🌱 I’m currently learning React/Next.js
+- 💼 I'm open to new opportunities and collaborations.
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/thomashermanu/).
+
 
 ## Tech Stack and Technologies
 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"> <img alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" align="left" width="30"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" align="left" width="30"></a>
-<a href="https://developer.mozilla.org/de/docs/Web/JavaScript"><img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" align="left" width="30"></a>
-<a href="https://reactjs.org/"><img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" align="left" width="30"></a>
-<a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" align="left" width="30"></a>
+Here are some of the technologies I'm proficient in:
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=tmh9x&theme=tokyonight_duo" width="35%" align="right"><br />
-<br />
-<a href="https://tailwindcss.com/"><img alt="Tailwind" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" align="left" width="30"></a>
-<a href="https://www.mongodb.com/"><img alt="MongoSB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" align="left" width="30"></a>
-<a href="https://nodejs.org/en/about/"><img alt="Nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" align="left" width="30"></a>
-<a href="http://expressjs.com/en/starter/installing.html"><img alt="ExpressJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" align="left" width="30"></a>
-<a href="https://git-scm.com/"><img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="left" width="30"></a>
-<br />
-<br />
-<a href="https://github.com
-"><img alt="GitHub" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202098codedevelopergithublogo-115590_115711.png" align="left" width="30"></a>
-<a href="https://code.visualstudio.com/"><img alt="VS Code" src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" align="left" width="30"></a>
-<a href="https://storybook.js.org/"><img alt="Storybook" src="https://pbs.twimg.com/profile_images/1100804485616566273/sOct-Txm_400x400.png" align="left" width="30"></a>
-<a href="https://heroku.com"><img alt="Heroku" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" align="left" width="30"></a>
-<a href="https://www.adobe.com/de/products/xd.html"><img alt="Aodobe XD" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" align="left" width="30"></a>
+<div style="display: flex;">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="30px">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" width="30px">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="30px">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="30px">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="30px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="30px">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="30px">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="30px">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express.js" width="30px">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30px">
+</div>
+
+
+## Tools and Platforms
+
+In addition to the above technologies, I also work with:
+
+<div style="display: flex;">
+<img src="https://github.com/fluidicon.png" alt="GitHub" width="30px">
+<img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab" width="30px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" width="30px">
+<img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" alt="Figma" width="30px">
+<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="Postman" width="30px">
+</div>
+
+
+## GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tmh9x&theme=tokyonight_duo)
