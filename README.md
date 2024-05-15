@@ -41,6 +41,12 @@ In addition to the above technologies, I also work with:
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="Postman" width="30px">
 </div>
 
+## Badges
+
+<div style="display: flex;">
+<img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="Postman" width="150px">
+<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Postman" width="150px">
+</div>
 
 ## GitHub Stats
 
