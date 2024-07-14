@@ -6,7 +6,7 @@
 
 I've been working in the web development field for 3 years, specializing in frontend technologies. I have a strong foundation in HTML, CSS, and JavaScript, and I'm continuously honing my skills by exploring new frameworks and libraries like React.
 
-- 🌱 I’m currently learning React/Next.js
+- 🌱 I’m currently learning React/Next.js.
 - 💼 I'm open to new opportunities and collaborations.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/thomashermanu/).
 
