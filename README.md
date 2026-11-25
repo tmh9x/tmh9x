@@ -42,7 +42,6 @@ I build web products with React and TypeScript, from UI and component architectu
 | [Budgetbook](https://github.com/tmh9x/budget-book) | Expense tracker built in a team of seven, incl. Google OAuth, Docker, Kubernetes, CI/CD, Cypress and load tests | Angular · NestJS · MySQL |
 | [fitdoc](https://github.com/tmh9x/fitdoc) | Workout tracker with a component library in Storybook (early project) | React · TypeScript · Tailwind |
 
-<sub>Coming soon: an AI-powered language-learning app.</sub>
 
 ### Certifications
 
