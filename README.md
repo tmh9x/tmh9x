@@ -16,7 +16,7 @@
 
 I build web products with React and TypeScript, from UI and component architecture to the API behind it. I like clean, tested code and turning business requirements into features people actually use.
 
-- **Recent** – Full-Stack Engineer at Ins Enco: helped lead the frontend team (code reviews, sprint planning, requirements alignment with German clients) and shipped two product launches
+- **Recent** – Lead Software Engineer at Ins Enco, Ho Chi Minh City (fintech): led the frontend team, defined frontend architecture and code quality standards, owned requirements with the German client and delivered two go-lives
 - **Before** – Full-Stack Developer at Zenesis (building services / MEP planning, MERN stack) · Consultant at Sopra Steria (banking)
 - **How I work** – Spec-driven development, unit tests, AI-assisted workflows (Claude Code) in daily use
 - **Background** – B.A. in Business Administration (HTW Berlin): I like turning business needs into technical solutions
