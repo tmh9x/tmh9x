@@ -36,11 +36,12 @@ I build web products with React and TypeScript, from UI and component architectu
 
 | Project | Description | Stack |
 |:--|:--|:--|
+| [jumpra](https://github.com/tmh9x/jumpra-showcase) | Multi-tenant SaaS starter kit for teams building with AI coding agents – auth, organizations, RBAC, Stripe billing, security tests in CI (commercial, source private) | Next.js · TypeScript · Tailwind 4 · Postgres · Drizzle |
 | [ComHub](https://gitlab.com/AWS-2307-Project/com-hub) | Video platform built as a team project, frontend & backend | React · Node.js · Docker |
-| [Budgetbook](https://github.com/tmh9x/budget-book) | Personal budget management app | TypeScript · React |
-| [Fitness Tracker](https://github.com/Sadek-Murad/Fitness-Tracker) | Fitness tracking app built in a team | React |
+| Budgetbook | Expense tracker built in a team of seven, incl. Google OAuth, Docker, Kubernetes, CI/CD, Cypress and load tests | Angular · NestJS · MySQL |
+| [fitdoc](https://github.com/tmh9x/fitdoc) | Workout tracker with a component library in Storybook (early project) | React · TypeScript · Tailwind |
 
-<sub>More projects coming soon: a Next.js SaaS starter kit and an AI-powered language-learning app.</sub>
+<sub>Coming soon: an AI-powered language-learning app.</sub>
 
 ### Certifications
 
